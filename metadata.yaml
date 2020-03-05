@@ -1,16 +1,21 @@
 _repo: Italian-tytar_61552
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Haapanen, Ester
     gutenberg_agent_id: '51485'
     url: http://www.gutenberg.org/2009/agents/51485
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lamartine, A. de
     gutenberg_agent_id: '51484'
     url: http://www.gutenberg.org/2009/agents/51484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61552#Italian-tytar
 gutenberg_issued: '2020-03-03'
 gutenberg_type: Text
 identifiers:
