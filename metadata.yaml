@@ -1,0 +1,25 @@
+_repo: Italian-tytar_61552
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Haapanen, Ester
+    gutenberg_agent_id: '51485'
+    url: http://www.gutenberg.org/2009/agents/51485
+creator:
+  author:
+    agent_name: Lamartine, A. de
+    gutenberg_agent_id: '51484'
+    url: http://www.gutenberg.org/2009/agents/51484
+description: ''
+gutenberg_issued: '2020-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61552'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Italian tytär
+url: http://www.gutenberg.org/ebooks/61552
